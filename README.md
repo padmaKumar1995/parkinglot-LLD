@@ -11,3 +11,6 @@ Design a Parking Lot system with
 - Assigning Parking Slots for a Vehicle
 - Providing Ticket during entry
 - Calculate Fee and provide Invoice and Bill during exit
+
+## Development Decisions
+- Followed **Package by Layer** structure
